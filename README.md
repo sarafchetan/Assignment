@@ -6,7 +6,7 @@ npm install
 npm install cypress --save-dev
 
 Git clone the repository
-using git clone <repo name>
+using git clone <https://github.com/<username>/Assignment.git>
 
 Open VS code and import that clone folder into VS code. 
 
